@@ -1,20 +1,17 @@
 //business logic
-
+let userInput = [0,1,2];
+    for (index = 0; index < userInput; index++) {
+      console.log(index);
+    }
+    
 
 //user interface logic
 $(document).ready(function() { 
   $("form#input").submit(function(event) {
     event.preventDefault();
+    let numInput = parseInt($("input#numInput").val());
+    const arrayNum = ["Beep", "Boop", ""]
 
-    let numInput = parseInt($("input#numInput"));
-    let arrayNum = []
-    for (index = 0; index < arrayNum.length; index++) {
-      if (index === 1) {
-        alert = "Beep!"
-      }
-    }
-    
-    //const numInput = parseInt($("input#numInput").val());
     
     
     $("#output").show();

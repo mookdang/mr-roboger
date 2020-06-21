@@ -15,14 +15,16 @@ User type whatever number they want to see the result.
 | If a number contain a one | "1" | Beep! |
 | If a number contain a two | "2" | Boop! |
 | If a number contain a three | "3" | "Won't you be my neighbor?" |
+| The exceptions number are written from least to most important | number 13 | Replaced with "Won't you be my neighbor?" |
+| If user enter number beside exceptions number | "5" | "5" |
 
 ## Links
 
 ## Setup/Installation Requirements
 
-1. 
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+1. Open up the application on Web-brower
+2. Type any number wanted
+3. The return will give back depend on what number is inputted
 
 ## Known Bugs
 No Known Bugs - 06/12/2020
