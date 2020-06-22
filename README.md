@@ -16,7 +16,10 @@ User type whatever number they want to see the result.
 | If a number contain a two | "2" | Boop! |
 | If a number contain a three | "3" | "Won't you be my neighbor?" |
 | The exceptions number are written from least to most important | number 13 | Replaced with "Won't you be my neighbor?" |
+| The exceptions number are written from least to most important | number 23 | Replaced with "Boop!" |
 | If user enter number beside exceptions number | "5" | "5" |
+
+
 
 ## Links
 
